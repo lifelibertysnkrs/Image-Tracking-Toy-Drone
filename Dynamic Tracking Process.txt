@@ -1,5 +1,0 @@
-Click on AOI
-HSV is generated and used to draw rectangle around object
-When the object is moved, the rectangle follows the object
-Whenever the rectangle moves, generate new HSV from CENTER of rectangle
-Start tracking the new HSV
